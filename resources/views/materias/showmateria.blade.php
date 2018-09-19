@@ -5,7 +5,7 @@
   </head>
   <body>
     <h1>
-      INFORMACION DE MATERIAS{{$id}} {{ $nombre}}
+      INFORMACION DE MODIFICADO MATERIAS{{$id}} {{ $nombre}}
     </h1>
     <br><br>
   </body>
